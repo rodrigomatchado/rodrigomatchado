@@ -1,7 +1,7 @@
 <h1>👨🏻‍💻&nbsp;About Me</h1>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I have a EQF5 in Cybersecurity and a EQF4 in Computer Programming.
+🎓 &nbsp;I have a EQF5 in Cybersecurity and a EQF4 in Computer Programming.\
 🌱 &nbsp;I'm on track for learning more about Cybersecurity, Development, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I work as a Freelancer and like to explore new technologies.\
 💬 &nbsp;Feel free to reach me out for job offers, or just for some interesting discussion.\
