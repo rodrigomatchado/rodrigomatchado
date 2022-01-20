@@ -1,6 +1,4 @@
-<p >👋 &nbsp;Hey there! I'm Rodrigo
-
-### 👨🏻‍💻 &nbsp;About Me
+<h1>👨🏻‍💻&nbsp;About Me</h1>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have a EQF5 in Cybersecurity and a EQF4 in Computer Programming.
