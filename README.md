@@ -27,6 +27,5 @@
 
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
 Last Edited on: 20/01/2022
